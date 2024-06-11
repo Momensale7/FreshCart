@@ -3,7 +3,7 @@ export default function Loading() {
   return (
     <div>
       <Player
-        src='./src//components/Loading/Animation - 1717840785142.json'
+        src='./src/components/Loading/Animation - 1717840785142.json'
         className="player"
         loop
         autoplay
