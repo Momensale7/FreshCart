@@ -4,7 +4,7 @@ export default function Loading() {
   return (
     <div>
       <Player
-        src='git/anm.json'
+        src='/anm.json'
         className="player"
         loop
         autoplay
