@@ -4,7 +4,7 @@ export default function Loading() {
   return (
     <div>
       <Player
-        src='/anm.json'
+        src='https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs'
         className="player"
         loop
         autoplay
